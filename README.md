@@ -27,10 +27,12 @@ There are 35 different products and five categories. The biggest number of produ
 
 Also, toys bring the biggest profit - **1.08M** about *27%* of the total.
 But, the most profitable category in commercial and airport stores is **Electronics**.
+
 ![Screenshot 2024-04-09 234722](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/58fc00a5-d0e6-47c1-9ea0-097132900ae7)
 ![Screenshot 2024-04-09 234826](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/767dc1b6-9489-49a3-bc60-34538ae6d0fa)
 
 The most bought product is *Colorbuds*, and *PlayDoh Can*. The most profitable products are *Colorbuds* and *Action Figures*.
+
 ![Screenshot 2024-04-09 234917](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/321833ae-da09-484b-94f5-68e4591af9d9)
 
 #### Which stores bring the biggest profit?
@@ -53,16 +55,22 @@ The biggest profit of all time was gained on **December 2022**. The reason for i
 ![Screenshot 2024-04-09 235228](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/345466f7-4303-4917-b287-d47047366f8b)
 
 Also, some product categories have individual sales trends. After *August 2022* *Art & Crafts* category profit started to rise and stayed nearly the same all 2023 year.
+
 ![Screenshot 2024-04-09 235246](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/7e4d4eb5-991c-4987-bdd2-34aa845d6001)
 The *Electronics* category profit slowly dropped down during all the time.
+
 ![Screenshot 2024-04-09 235300](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/1e8543b7-7867-4224-973d-2d2ba8c48670)
 
 #### Are sales being lost with out-of-stock products at certain locations?
 
 In the top seven items by number of stores where they are out of stock are some products that bring big profits. 
+
 ![Screenshot 2024-04-09 235455](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/32807ad0-2260-450c-9e54-7c9f3d0d4d57)
+
 **Action figure** is the second by total profit and is out-of-stock in *10%* stores (5 from 50). **Etch a sketch** takes the tenth place by total profit value and it's out of stock in *14%* of stores. **Mini Ping Pong Set* is 16-th by profit and out of stock in *12%* of stores.
+
 ![Screenshot 2024-04-09 235520](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/664bcdf1-c430-49a7-9c6b-333d3bea4b84)
+
 #### How much money is tied up in inventory at the toy stores? How long will it last?
 
 The total price of all products in inventory is **410.24K**. Total number of items in stores is **30K**.
