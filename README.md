@@ -42,7 +42,7 @@ The most bought product is *Colorbuds*, and *PlayDoh Can*. The most profitable p
 The biggest profit for all time brought 
 **Maven Toys Ciudad de Mexico 2**. The store that takes second place is **Maven Toys Guadalajara 3**, but its profit usually drops in the first quarter. 
 
-**Maven Toys Ciudad de Mexico 1** takes a high place but dropped down in the third quarter. **Maven Toys Toluca 1** and **Maven Toys Monterrey 2** grew up in the second half of 2022 and the beginning of 2023 respectively. **Maven Toys Guadalajara** 4 and **Maven Toys Hermosillo 3** profits droped down.
+**Maven Toys Ciudad de Mexico 1** takes a high place but dropped down in the third quarter. **Maven Toys Toluca 1** and **Maven Toys Monterrey 2** grew up in the second half of 2022 and the beginning of 2023 respectively. **Maven Toys Guadalajara 4**  and **Maven Toys Hermosillo 3** profits droped down.
 
 ![Screenshot 2024-04-09 235030](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/6fa96983-9b79-487e-ab16-23b18665b427)
 
