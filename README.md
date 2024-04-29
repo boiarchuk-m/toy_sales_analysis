@@ -1,6 +1,6 @@
 # Mexico toy sales analysis
 
-Power BI online dashboard: https://app.powerbi.com/view?r=eyJrIjoiNmQwZDA0NmYtMzEwNy00NDI3LWFhODUtMjM4ZTNiMjYwMjlkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+Power BI online dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGNmYjU2ODEtZGZhMC00YzUwLWEzN2ItMDZjMjlkMzRmMjJiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Project description
 In this project, I delve into sales analysis to unlock valuable insights to optimize sales performance for a retail company.
@@ -83,6 +83,7 @@ The biggest number of units in store are **Deck of cards**. There are about *273
 
 ![Screenshot 2024-04-12 185940](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/cb8b8362-9a3c-4c01-95b0-d5b9117397ae)
 
-About the time to sell all units - **Dinosaur Figures** have the biggest average time between all stores - *1.6 months*.
+About days left to sell all units - **Dinosaur Figures in Maven Toys San Luis Potosi 1** have the biggest amount of time - *198 days*.
+The smallest number of days to sell all units has **Playfoam in Maven Toys Saltillo 2** - *0.28 of the day*
 
-![Screenshot 2024-04-12 190023](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/2103abd9-9447-450b-9b0d-b7afddd836a7)
+![Screenshot 2024-04-29 130435](https://github.com/boiarchuk-m/toy_sales_analysis/assets/85259110/6fda2b9c-7375-4fe8-96ca-f8fafd3ac5d9)
